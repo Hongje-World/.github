@@ -1,6 +1,9 @@
-> [!note]
-> _"교육은 삶의 준비가 아니라 삶 그 자체이다."_   
-> 꾸준한 공부를 통해 저는 성장하며, 변화합니다. 🔥 
+<div align="center">
+
+  <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" width="130px" height="130px"/>
+
+</div>
+
 
 <!--
 
